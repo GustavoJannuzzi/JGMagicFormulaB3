@@ -51,7 +51,7 @@ dados.sort_values(by = 'score')
 
 dados['Papel'] = dados['Papel'] +'.SA'
 
-stockSectorDF = 'C:/Users/gustavo.j.siebel/OneDrive - Accenture/Documents/Projetos/MagiFormula/StockSector.csv'
+stockSectorDF = 'https://raw.githubusercontent.com/GustavoJannuzzi/JGMagicFormulaB3/main/StockSector.csv'
 stockSectorDF = pd.read_csv(stockSectorDF)
 del stockSectorDF['Unnamed: 0']
 
