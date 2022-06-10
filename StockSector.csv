@@ -1,0 +1,199 @@
+,Papel,sector
+0,BRBI11.SA,Financial Services
+1,UNIP6.SA,Basic Materials
+2,UNIP3.SA,Basic Materials
+3,TASA4.SA,Industrials
+4,PSSA3.SA,Financial Services
+5,CMIN3.SA,Basic Materials
+6,AURA33.SA,Basic Materials
+7,VALE3.SA,Basic Materials
+8,MRFG3.SA,Consumer Defensive
+9,KEPL3.SA,Industrials
+10,BRKM5.SA,Basic Materials
+11,PRIO3.SA,Energy
+12,ODPV3.SA,Healthcare
+13,SYNE3.SA,Real Estate
+14,FESA4.SA,Basic Materials
+15,GGBR4.SA,Basic Materials
+16,GGBR3.SA,Basic Materials
+17,GOAU4.SA,Basic Materials
+18,ETER3.SA,Industrials
+19,CSNA3.SA,Basic Materials
+20,FHER3.SA,Basic Materials
+21,BLAU3.SA,Healthcare
+22,USIM3.SA,Basic Materials
+23,USIM5.SA,Basic Materials
+24,TFCO4.SA,Consumer Cyclical
+25,PLPL3.SA,Real Estate
+26,AGRO3.SA,Consumer Defensive
+27,LEVE3.SA,Consumer Cyclical
+28,RANI3.SA,Consumer Cyclical
+29,JALL3.SA,Consumer Defensive
+30,PETR3.SA,Energy
+31,PETR4.SA,Energy
+32,PTBL3.SA,Industrials
+33,WEGE3.SA,Industrials
+34,JBSS3.SA,Consumer Defensive
+35,BEEF3.SA,Consumer Defensive
+36,DEXP3.SA,Basic Materials
+37,ENAT3.SA,Energy
+38,LVTC3.SA,Communication Services
+39,QUAL3.SA,Healthcare
+40,PARD3.SA,Healthcare
+41,CCRO3.SA,Industrials
+42,WIZS3.SA,Financial Services
+43,KLBN4.SA,Basic Materials
+44,KLBN11.SA,Basic Materials
+45,SLCE3.SA,Consumer Defensive
+46,CARD3.SA,Financial Services
+47,B3SA3.SA,Financial Services
+48,INTB3.SA,Technology
+49,SUZB3.SA,Basic Materials
+50,VITT3.SA,Basic Materials
+51,CURY3.SA,Real Estate
+52,RENT3.SA,Industrials
+53,VIVA3.SA,Consumer Cyclical
+54,MILS3.SA,Industrials
+55,TAEE3.SA,Utilities
+56,TAEE11.SA,Utilities
+57,TAEE4.SA,Utilities
+58,BOAS3.SA,Financial Services
+59,TOTS3.SA,Technology
+60,EGIE3.SA,Utilities
+61,ABEV3.SA,Consumer Defensive
+62,SOJA3.SA,Basic Materials
+63,MOVI3.SA,Industrials
+64,LREN3.SA,Consumer Cyclical
+65,RAPT4.SA,Industrials
+66,VULC3.SA,Consumer Cyclical
+67,FIQE3.SA,Communication Services
+68,ASAI3.SA,Consumer Defensive
+69,SAPR4.SA,Utilities
+70,SAPR11.SA,Utilities
+71,ALUP11.SA,Utilities
+72,SMTO3.SA,Consumer Defensive
+73,DXCO3.SA,Basic Materials
+74,TGMA3.SA,Industrials
+75,JHSF3.SA,Real Estate
+76,VBBR3.SA,Consumer Cyclical
+77,PORT3.SA,Industrials
+78,ARZZ3.SA,Consumer Cyclical
+79,TRPL4.SA,Utilities
+80,LCAM3.SA,Industrials
+81,CBAV3.SA,Basic Materials
+82,TUPY3.SA,Consumer Cyclical
+83,LAVV3.SA,Real Estate
+84,VAMO3.SA,Industrials
+85,FRAS3.SA,Consumer Cyclical
+86,CPFE3.SA,Utilities
+87,CMIG3.SA,Utilities
+88,CMIG4.SA,Utilities
+89,SHUL4.SA,Consumer Cyclical
+90,TTEN3.SA,Basic Materials
+91,TECN3.SA,Consumer Cyclical
+92,RECV3.SA,Energy
+93,ROMI3.SA,Industrials
+94,FLRY3.SA,Healthcare
+95,SIMH3.SA,Industrials
+96,NEOE3.SA,Utilities
+97,STBP3.SA,Industrials
+98,GGPS3.SA,Consumer Cyclical
+99,ENGI11.SA,Utilities
+100,VVEO3.SA,Healthcare
+101,LPSB3.SA,Real Estate
+102,LOGN3.SA,Industrials
+103,ALLD3.SA,Technology
+104,BMOB3.SA,Communication Services
+105,GMAT3.SA,Consumer Cyclical
+106,MYPK3.SA,Consumer Cyclical
+107,RADL3.SA,Healthcare
+108,ENBR3.SA,Utilities
+109,HYPE3.SA,Healthcare
+110,POSI3.SA,Technology
+111,GRND3.SA,Consumer Cyclical
+112,VLID3.SA,Industrials
+113,CAML3.SA,Consumer Defensive
+114,ORVR3.SA,Industrials
+115,ALPA4.SA,Consumer Cyclical
+116,ECOR3.SA,Industrials
+117,ARML3.SA,Industrials
+118,PCAR3.SA,Consumer Cyclical
+119,AMAR3.SA,Consumer Cyclical
+120,SBFG3.SA,Consumer Cyclical
+121,EQTL3.SA,Utilities
+122,RDOR3.SA,Healthcare
+123,RRRP3.SA,Energy
+124,CRFB3.SA,Consumer Defensive
+125,AMBP3.SA,Industrials
+126,TIMS3.SA,Communication Services
+127,CPLE11.SA,Utilities
+128,CPLE3.SA,Utilities
+129,CPLE6.SA,Utilities
+130,MULT3.SA,Real Estate
+131,CIEL3.SA,Technology
+132,AERI3.SA,Industrials
+133,CSMG3.SA,Utilities
+134,PETZ3.SA,Consumer Cyclical
+135,SBSP3.SA,Utilities
+136,CSED3.SA,Consumer Defensive
+137,RAIZ4.SA,Utilities
+138,LJQQ3.SA,Consumer Cyclical
+139,PGMN3.SA,Healthcare
+140,IGTI11.SA,Industrials
+141,YDUQ3.SA,Consumer Defensive
+142,DIRR3.SA,Real Estate
+143,ENEV3.SA,Utilities
+144,CYRE3.SA,Consumer Cyclical
+145,SEER3.SA,Consumer Defensive
+146,JSLG3.SA,Industrials
+147,TRIS3.SA,Real Estate
+148,EZTC3.SA,Real Estate
+149,MDIA3.SA,Consumer Defensive
+150,ANIM3.SA,Consumer Defensive
+151,LIGT3.SA,Utilities
+152,UGPA3.SA,Energy
+153,ALSO3.SA,Real Estate
+154,BRFS3.SA,Consumer Defensive
+155,EVEN3.SA,Real Estate
+156,VIVT3.SA,Communication Services
+157,DESK3.SA,Communication Services
+158,ELMD3.SA,Communication Services
+159,AURE3.SA,Utilities
+160,CSAN3.SA,Energy
+161,EMBR3.SA,Industrials
+162,NGRD3.SA,Technology
+163,VIIA3.SA,Consumer Cyclical
+164,JPSA3.SA,NA
+165,KRSA3.SA,Healthcare
+166,ONCO3.SA,Healthcare
+167,RAIL3.SA,Industrials
+168,MTRE3.SA,Real Estate
+169,NTCO3.SA,Consumer Defensive
+170,MDNE3.SA,Real Estate
+171,ESPA3.SA,Consumer Cyclical
+172,MLAS3.SA,Technology
+173,BRML3.SA,Real Estate
+174,BRIT3.SA,Communication Services
+175,PNVL3.SA,Healthcare
+176,AMER3.SA,Consumer Cyclical
+177,HBSA3.SA,Industrials
+178,SOMA3.SA,Consumer Cyclical
+179,AALR3.SA,Healthcare
+180,AESB3.SA,Utilities
+181,SQIA3.SA,Technology
+182,MRVE3.SA,Consumer Cyclical
+183,COGN3.SA,Consumer Defensive
+184,ELET6.SA,Utilities
+185,ELET3.SA,Utilities
+186,OPCT3.SA,Industrials
+187,LOGG3.SA,Real Estate
+188,BRPR3.SA,Real Estate
+189,GUAR3.SA,Consumer Cyclical
+190,ITSA4.SA,Financial Services
+191,HBOR3.SA,Real Estate
+192,GFSA3.SA,Consumer Cyclical
+193,DASA3.SA,Healthcare
+194,MGLU3.SA,Consumer Cyclical
+195,LWSA3.SA,Technology
+196,SEQL3.SA,Industrials
+197,HAPV3.SA,Healthcare
