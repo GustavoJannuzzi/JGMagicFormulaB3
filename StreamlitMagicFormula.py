@@ -74,7 +74,15 @@ filtroSetores = filtroSetores[filtroSetores['sector'] != 'NA']
 
 st.title("Magic Formula - B3")
 
-QtdStocks = st.slider('How many stocks?',10,50,20,10)
+st.markdown('A Fórmula Mágica — uma triagem de ações projetada pelo guru dos fundos de hedge Joel Greenblatt — classifica as ações por dois fatores:')
+st.markdown('    1. Lucratividade (com base na métrica escolhida por Greenblatt, Return on Capital)')
+st.markdown('    2. Rendimento do lucro (o inverso do índice P/L, definido aqui por Greenblatt como EBIT / Enterprise Value))')
+st.markdown('Comprar empresas boas e lucrativas a preços baratos não é exatamente uma ideia revolucionária; isso é o que Warren Buffett tem feito com sucesso por décadas. Mas Greenblatt criou uma maneira sistemática de fazer isso, e a maior parte do levantamento pesado de processamento de números é feito pelo rastreador.')
+st.write("Para realizar esta seleção de ativos, foi feita uma raspagem de dados do site", "Fundamentus.com [link](https://share.streamlit.io/mesmith027/streamlit_webapps/main/MC_pi/streamlit_app.py)")
+st.write("Depois foi criado um ranking listando as posições  de cada empresa listada na bolsa brasileira. O ranking consiste em order as empresas com melhor EV/EBIT e melhor ROIC.")
+st.write("Com isso pode ser gerada uma carteira com os melhores ativos posicionados nessa estratégia.")
+
+QtdStocks = st.slider('Quantos ativos?',10,50,20,10)
 # Ranking da Magic Formula
 MagicWallet = filtroSetores.sort_values(by = 'score').head(QtdStocks)
 
